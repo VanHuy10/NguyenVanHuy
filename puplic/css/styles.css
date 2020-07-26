@@ -1,0 +1,99 @@
+/* header */
+.top-price {
+    background: #000;
+    text-align: right;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.logo a{
+    display: inline-block;
+    font-weight: normal;
+    padding: 10px 0;
+    color: #000;
+    font-size: 32px;
+    text-decoration: none;
+}
+
+.logo {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.border-grey {
+    border-top: 1px solid rgba(128, 128, 128, 0.335);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.335);
+    padding: 5px 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 1.2rem;
+    padding: 0 20px;
+    color: #000;
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #77b5e5;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #77b5e5;
+}
+
+/* main content */
+.main-content{
+    margin-top: 50px;
+}
+
+.item-name h1 {
+    font-weight: normal;
+}
+
+.pruduct-caption {
+    padding: 15px 0;
+}
+
+.item-price {
+    font-weight: normal;
+    font-size: 32px;
+}
+
+.btn-add {
+    padding: 20px 0;
+}
+
+a.add-item {
+    display: inline-block;
+    padding: 5px 13px;
+    border-radius: 99px;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+}
+
+a.add-item:hover {
+    background: #77b5e5;
+}
+
+/* footer */
+footer h3 {
+    padding: 15px 0;
+}
+
+footer p {
+    color: grey;
+}
+
+.top-footer {
+    border-top: 1px solid rgba(128, 128, 128, 0.342);
+    padding-top: 20px;
+}
+
+.bottom-footer {
+    border-top: 1px solid rgba(128, 128, 128, 0.342);
+    text-align: right;
+    padding: 30px 20px;
+    margin: 20px 0;
+}
+ 
